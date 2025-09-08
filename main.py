@@ -9,4 +9,4 @@ elif WeightStr[-2:] in ["lb"]:
     kg = lb / 2.2046
     print("对应的公制重量是 {:.3f} 千克".format(kg))
 else:
-    print("输入格式错误")# 在这个文件下编写代码，题目具体要求见README.md文件
+    print("输入格式错误")
